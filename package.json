@@ -1,0 +1,15 @@
+{
+  "name": "healthstatuschecker",
+  "version": "1.0.0",
+  "description": "Status checker for surgemaker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Rivas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bluebird": "^3.4.6"
+  }
+}
